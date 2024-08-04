@@ -1,10 +1,9 @@
 {
   "name": "shopping",
-    "engines": {
-    "npm": "10.x",
+  "version": "0.1.0",
+  "engines": {
       "node": "20.16.0..."
   }
-  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@firebase/firestore": "^4.6.3",
