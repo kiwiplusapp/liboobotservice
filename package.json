@@ -35,7 +35,7 @@
   },
   "scripts": {
     "start": "forever start bot.js",
-    "build": "forever start bot.js",
+    "build": "forever start bot.js"
   },
   "eslintConfig": {
     "extends": [
